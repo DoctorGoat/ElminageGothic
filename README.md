@@ -42,8 +42,8 @@ There's also a big issue I haven't addressed yet. Monster names have imported co
 
 The shop is the best example of almost everything going right. 
 Patch:  
-!(http://i.imgur.com/9ksrJH6.jpg)
+![patch](http://i.imgur.com/9ksrJH6.jpg)
 Before:  
-!(http://i.imgur.com/fJjiEet.jpg)
+![before](http://i.imgur.com/fJjiEet.jpg)
 Official: 
-!(http://images.akamai.steamusercontent.com/ugc/93847375950866889/5D4655924F3C3E326C0B0968313430490F68F214/)
+![official](http://images.akamai.steamusercontent.com/ugc/93847375950866889/5D4655924F3C3E326C0B0968313430490F68F214/)
