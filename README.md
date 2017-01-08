@@ -34,16 +34,16 @@ A massive amount of the game's strings are stored directly in the eboot. If you 
 You'll be limited quite a lot by this. For example, 守られている is used in both EO and EG and actually shows up ingame in the official Ghostlight translation of Elminage Original. As far as I understand, it means "It is protected!". Modifying the binary directly with a hex editor will give you the ability to replace this with Japanese Character Length * 2, so you could fit 12 characters in there theoretically.   
 
 Additionally, a staggering amount of the game is stored in textures that are not compatible with the format that the game is loading them as. PPSSPP can dump these, but reinserting them would require a modded PSP using a very complex FreeCheat plugin or the reverse engineering of what's wrong with the textures. An example of one of them:   
-|[orig texture](http://imgur.com/4Knozx8.png)
+![orig texture](http://imgur.com/4Knozx8.png)
 
 There's also a big issue I haven't addressed yet. Monster names have imported correctly, as have place names. Unfortunately, the top right of the screen's print function only supports up to around 8 characters. This will have to be addressed to continue with the project. There are two ways to do so: We either have to hijack the function that prints in the eboot and tell it to go further left (as it is actually printing offscreen), or we have to trim every monster and place name down to 8 characters. The latter is crude, so I am currently researching methods of doing the first method gracefully.   
 
 # Before, After, and Official:
 
-The shop is the best example of almost everything going right. 
+The shop is the best example of almost everything going right.  
 Patch:  
 ![patch](http://i.imgur.com/9ksrJH6.jpg)
-Before:  
+Before:    
 ![before](http://i.imgur.com/fJjiEet.jpg)
-Official: 
+Official:   
 ![official](http://images.akamai.steamusercontent.com/ugc/93847375950866889/5D4655924F3C3E326C0B0968313430490F68F214/)
