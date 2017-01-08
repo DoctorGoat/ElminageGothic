@@ -41,9 +41,10 @@ There's also a big issue I haven't addressed yet. Monster names have imported co
 # Before, After, and Official:
 
 The shop is the best example of almost everything going right.  
-Patch:  
-![patch](http://i.imgur.com/9ksrJH6.jpg)
+
 Before:    
 ![before](http://i.imgur.com/fJjiEet.jpg)
+Patch:  
+![patch](http://i.imgur.com/9ksrJH6.jpg)
 Official:   
 ![official](http://images.akamai.steamusercontent.com/ugc/93847375950866889/5D4655924F3C3E326C0B0968313430490F68F214/)
