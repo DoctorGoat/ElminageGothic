@@ -1,5 +1,9 @@
 # ElminageGothic
 
+# Using the current patch:
+  Start the game. Hammer X until the cutscene begins, and then close the game. You now have an MS0:\PSP\SAVEDATA\ULJM06091_02_INST folder on your PSP/PSP-like device.  
+  Apply etc.ips to etc.bin in that folder.  
+
 # Tool requirements for the creation of a patch:
   BraUnpacker. I am unsure who made this tool, or where to find it at the moment.  
   Elminage Gothic for PC.  
